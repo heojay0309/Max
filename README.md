@@ -1,5 +1,6 @@
- ## K-SoCal Hackathon
+ ## K-SoCal Hackathon < 24 hours mockup presentation
  - React-Native Expo
+ - [The Korea Daily Article](https://news.koreadaily.com/2023/09/05/society/community/20230905195858077.html)
 <div style="display: flex; justify-content: space-between;" width="100%">
   <img src="https://github.com/user-attachments/assets/accabe78-f73f-4f61-824d-0d9c049fb222" alt="Simulator Screen Shot 1" width="250"/>
   <img src="https://github.com/user-attachments/assets/3031233e-7897-4329-b99a-4ecdd8859066" alt="Simulator Screen Shot 2" width="250"/>
